@@ -238,3 +238,4 @@ https://www.nordicnaturals.com/consumers/reward-points is a valid link
 https://www.nordicnaturals.com/consumers/privacy is a valid link
 
 Report:
+NordicNatural/target/site/serenity/index.html
