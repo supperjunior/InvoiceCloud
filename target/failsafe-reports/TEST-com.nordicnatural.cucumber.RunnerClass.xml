@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.nordicnatural.cucumber.RunnerClass" time="3.674" tests="2" errors="0" skipped="0" failures="0">
+<testsuite name="com.nordicnatural.cucumber.RunnerClass" time="2.063" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="cucumber.options" value="--tags @home"/>
@@ -26,7 +26,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="os.name" value="Mac OS X"/>
-    <property name="classworlds.conf" value="/Users/owner/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf14572717502432989376.tmp"/>
+    <property name="classworlds.conf" value="/Users/owner/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf11166066903051596036.tmp"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
     <property name="java.library.path" value="/Users/owner/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -63,5 +63,6 @@
     <property name="sun.cpu.isalist" value=""/>
   </properties>
   <testcase name="Given i have logged into Nordic homepage" classname="Scenario: Nordic homepage validation" time="0.001"/>
-  <testcase name="Scenario: Nordic homepage validation" classname="Scenario: Nordic homepage validation" time="3.673"/>
+  <testcase name="Then i check all links on the Nordic homepage are active and working" classname="Scenario: Nordic homepage validation" time="0"/>
+  <testcase name="Scenario: Nordic homepage validation" classname="Scenario: Nordic homepage validation" time="2.062"/>
 </testsuite>

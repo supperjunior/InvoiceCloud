@@ -12,6 +12,11 @@ public class HomePageStepsDef extends ScenarioSteps {
 	public void openNordicHomePage() {
 		homepage.open();
 		getDriver().manage().window().maximize();
+		
+	}
+	
+	@Step
+	public void verifyNordicHomePageURL() {
 		homepage.findAllLinks();
 	}
 }
