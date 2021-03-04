@@ -1,4 +1,5 @@
 Prerequisites
+
 Runnable on: Mac OS
 Browser: Chrome
 Tools: Java, Selenium Webdriver, BDD Cucumber
