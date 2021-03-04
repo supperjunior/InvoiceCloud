@@ -1,0 +1,19 @@
+<acceptance-test-run title="Nordic homepage validation" name="Nordic homepage validation" description="" steps="1" successful="1" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="65973" timestamp="2021-03-04T15:51:32.650-05:00" session-id="6b43abba58694cbff7a2cb97064a1cc9">
+  <user-story id="nordic-homepage" name="Nordic homepage" path="homepage.feature"/>
+  <tags>
+    <tag name="Nordic homepage" type="feature"/>
+    <tag name="home" type="tag"/>
+    <tag name="smoke" type="tag"/>
+  </tags>
+  <test-group name="Given i have logged into Nordic homepage" result="SUCCESS">
+    <screenshots>
+      <screenshot image="900172ecae37373c45ab33917f6b2d41.png"/>
+    </screenshots>
+    <test-step result="SUCCESS" duration="63079">
+      <screenshots>
+        <screenshot image="8460f6ae975bf3f1a371b3104c5e28c0.png"/>
+      </screenshots>
+      <description>Open nordic home page</description>
+    </test-step>
+  </test-group>
+</acceptance-test-run>
