@@ -1,6 +1,6 @@
 Prerequisites
 
-Runnable on: Mac OS
+Runnable on: Mac OS (mvn clean test verify -Dcucumber.options="--tags @home")
 
 Browser: Chrome
 
