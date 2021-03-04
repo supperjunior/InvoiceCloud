@@ -1,10 +1,15 @@
 Prerequisites
 
 Runnable on: Mac OS
+
 Browser: Chrome
+
 Tools: Java, Selenium Webdriver, BDD Cucumber
+
 Testcase steps:
+
 Go to Homepage https://www.nordicnaturals.com/consumers/
+
 check all links on the Nordic homepage are active and working.
 
 Result:
