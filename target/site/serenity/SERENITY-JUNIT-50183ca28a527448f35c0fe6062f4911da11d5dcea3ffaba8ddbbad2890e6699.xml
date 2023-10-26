@@ -1,1 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Nordic homepage" skipped="0" tests="1" time="152.2" timestamp="2021-03-63 04:18:57"><testcase name="Nordic homepage validation"/></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Nordic homepage" skipped="0" tests="1" time="63.49" timestamp="2023-10-299 10:05:56"><testcase name="Nordic homepage validation"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver&#13;
+com.nordicanature.cucumber.stepsdef.HomePageStepsDef.openNordicHomePage(HomePageStepsDef.java:13)&#13;
+com.nordicanature.cucumber.steps.HomePageSteps.openHomePage(HomePageSteps.java:15)&#13;
+</system-err></testcase></testsuite>

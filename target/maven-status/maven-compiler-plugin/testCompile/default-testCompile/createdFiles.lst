@@ -1,5 +1,5 @@
-com/nordicnatural/cucumber/pageObject/HomePage.class
-com/nordicnatural/cucumber/RunnerClass.class
-com/nordicnatural/util/GenUtil.class
-com/nordicanature/cucumber/steps/HomePageSteps.class
-com/nordicanature/cucumber/stepsdef/HomePageStepsDef.class
+com\nordicnatural\util\GenUtil.class
+com\nordicanature\cucumber\stepsdef\HomePageStepsDef.class
+com\nordicnatural\cucumber\RunnerClass.class
+com\nordicanature\cucumber\steps\HomePageSteps.class
+com\nordicnatural\cucumber\pageObject\HomePage.class
